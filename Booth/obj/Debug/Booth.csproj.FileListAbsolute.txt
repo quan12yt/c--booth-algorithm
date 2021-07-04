@@ -1,0 +1,30 @@
+E:\KienTrucMayTinh\Booth\Booth\bin\Debug\Booth.exe.config
+E:\KienTrucMayTinh\Booth\Booth\bin\Debug\Booth.exe
+E:\KienTrucMayTinh\Booth\Booth\bin\Debug\Booth.pdb
+E:\KienTrucMayTinh\Booth\Booth\obj\Debug\Booth.csprojResolveAssemblyReference.cache
+E:\KienTrucMayTinh\Booth\Booth\obj\Debug\Booth.Form1.resources
+E:\KienTrucMayTinh\Booth\Booth\obj\Debug\Booth.Properties.Resources.resources
+E:\KienTrucMayTinh\Booth\Booth\obj\Debug\Booth.csproj.GenerateResource.Cache
+E:\KienTrucMayTinh\Booth\Booth\obj\Debug\Booth.exe
+E:\KienTrucMayTinh\Booth\Booth\obj\Debug\Booth.pdb
+D:\OneDrive\Máy tính\Booth\Booth\bin\Debug\Booth.exe.config
+D:\OneDrive\Máy tính\Booth\Booth\bin\Debug\Booth.exe
+D:\OneDrive\Máy tính\Booth\Booth\bin\Debug\Booth.pdb
+D:\OneDrive\Máy tính\Booth\Booth\obj\Debug\Booth.csprojAssemblyReference.cache
+D:\OneDrive\Máy tính\Booth\Booth\obj\Debug\Booth.Form1.resources
+D:\OneDrive\Máy tính\Booth\Booth\obj\Debug\Booth.Properties.Resources.resources
+D:\OneDrive\Máy tính\Booth\Booth\obj\Debug\Booth.csproj.GenerateResource.cache
+D:\OneDrive\Máy tính\Booth\Booth\obj\Debug\Booth.csproj.CoreCompileInputs.cache
+D:\OneDrive\Máy tính\Booth\Booth\obj\Debug\Booth.exe
+D:\OneDrive\Máy tính\Booth\Booth\obj\Debug\Booth.pdb
+C:\Users\Welcome\Desktop\New folder (2)\Booth\Booth\bin\Debug\Booth.exe.config
+C:\Users\Welcome\Desktop\New folder (2)\Booth\Booth\obj\Debug\Booth.exe
+C:\Users\Welcome\Desktop\New folder (2)\Booth\Booth\obj\Debug\Booth.pdb
+C:\Users\Welcome\Desktop\New folder (2)\Booth\Booth\bin\Debug\Booth.exe
+C:\Users\Welcome\Desktop\New folder (2)\Booth\Booth\bin\Debug\Booth.pdb
+C:\Users\Welcome\Desktop\New folder (2)\Booth\Booth\obj\Debug\Booth.csprojResolveAssemblyReference.cache
+C:\Users\Welcome\Desktop\New folder (2)\Booth\Booth\obj\Debug\Booth.Form1.resources
+C:\Users\Welcome\Desktop\New folder (2)\Booth\Booth\obj\Debug\Booth.Properties.Resources.resources
+C:\Users\Welcome\Desktop\New folder (2)\Booth\Booth\obj\Debug\Booth.csproj.GenerateResource.Cache
+C:\Users\Welcome\Desktop\New folder (2)\Booth\Booth\obj\Debug\Booth.exe.licenses
+D:\OneDrive\Máy tính\Booth\Booth\obj\Debug\Booth.exe.licenses
