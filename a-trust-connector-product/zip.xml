@@ -12,7 +12,6 @@
             <includes>
                 <include>product.json</include>
                 <include>README.md</include>
-                <include>README_DE.md</include>
                 <include>**/*.png</include>
             </includes>
         </fileSet>
